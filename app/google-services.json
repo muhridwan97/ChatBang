@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "732618092744",
+    "firebase_url": "https://chatbang-58ae7.firebaseio.com",
+    "project_id": "chatbang-58ae7",
+    "storage_bucket": "chatbang-58ae7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732618092744:android:7810f93fee8c3c73",
+        "android_client_info": {
+          "package_name": "com.example.muh_r.chatbang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "732618092744-6rtr14a1g9n44d9eovrc8me6vpfestpg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.muh_r.chatbang",
+            "certificate_hash": "e71dd8e7a0d8928edbab41c88a47a347ee35a33e"
+          }
+        },
+        {
+          "client_id": "732618092744-v7s2hguqp5luvm0mhte3lpvbv6t9lbsb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg15hKbvRGLfx_RQJDVRMnpLiL1TbLdjo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "732618092744-v7s2hguqp5luvm0mhte3lpvbv6t9lbsb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
